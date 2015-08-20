@@ -1,6 +1,6 @@
 #
 # Working copy of the username-blacklist (aka make your changes here)
-# v1.0.1
+# v1.0.2
 #
 
 # privileges
@@ -73,12 +73,14 @@ checkout
 deals
 hosting
 invoice
+marketplace
 offer
 offers
 order
 orders
 pay
 payment
+store
 
 # sections
 about
@@ -96,6 +98,8 @@ comments
 contact
 documentation
 enterprise
+event
+events
 faq
 feed
 feedback
@@ -127,6 +131,7 @@ next
 newsletter
 newsletters
 page
+pages
 plans
 popular
 privacy
