@@ -7,8 +7,11 @@
 admin
 administrator
 administration
+host
+hostmaster
 master
 moderator
+postmaster
 poweruser
 root
 rootuser
@@ -17,14 +20,23 @@ superuser
 user
 
 # code
+ajax
+error
+exception
 false
+json
 none
 nil
 null
+rss
+sitemap
+ssl
+sudo
 true
 undefined
 var
 void
+www
 
 # terms
 account
@@ -41,19 +53,38 @@ passwd
 password
 request
 response
+shop
+security
+session
+sessions
 system
 username
 
 # financial
 advertise
+affiliate
+affiliates
 billing
+billings
+campaign
+contest
+cart
+checkout
 deals
+hosting
 invoice
+offer
+offers
+order
+orders
 pay
 payment
 
 # sections
 about
+app
+apps
+account
 backup
 bookmark
 bookmarks
@@ -63,16 +94,25 @@ careers
 comment
 comments
 contact
+documentation
+enterprise
 faq
 feed
+feedback
 feeds
 forum
 forums
+friend
+friends
 follower
 followers
 following
+group
+groups
 help
 home
+invitations
+invite
 invites
 jobs
 local
@@ -87,6 +127,8 @@ next
 newsletter
 newsletters
 page
+plans
+popular
 privacy
 previous
 profile
@@ -95,10 +137,15 @@ quota
 replies
 reply
 reviews
+settings
 status
 tag
 tags
+translations
+widget
+widgets
 you
+website
 
 # actions
 add
@@ -118,6 +165,7 @@ load
 login
 logout
 modify
+put
 register
 review
 remove
