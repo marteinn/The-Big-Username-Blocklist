@@ -55,6 +55,7 @@ follow
 follower
 followers
 following
+forgot-password
 forum
 forums
 friend
@@ -74,6 +75,7 @@ invite
 invite
 invites
 invoice
+issues
 jobs
 join
 json
@@ -81,6 +83,7 @@ load
 local
 login
 logout
+lost-password
 mail
 marketplace
 master
@@ -125,6 +128,8 @@ remove
 replies
 reply
 request
+reset
+reset-password
 response
 review
 reviews
