@@ -111,6 +111,7 @@ friends
 follower
 followers
 following
+forgot-password
 group
 groups
 help
@@ -118,8 +119,10 @@ home
 invitations
 invite
 invites
+issues
 jobs
 local
+lost-password
 mail
 message
 messages
@@ -141,6 +144,7 @@ profiles
 quota
 replies
 reply
+reset-password
 reviews
 settings
 status
@@ -172,8 +176,9 @@ logout
 modify
 put
 register
-review
 remove
+reset
+review
 save
 search
 select
