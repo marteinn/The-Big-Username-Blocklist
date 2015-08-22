@@ -1,7 +1,8 @@
 #
 # Working copy of the username-blacklist (aka make your changes here)
-# v1.0.2
+# v1.0.3
 #
+
 
 # privileges
 admin
@@ -111,6 +112,7 @@ friends
 follower
 followers
 following
+forgot-password
 group
 groups
 help
@@ -118,8 +120,10 @@ home
 invitations
 invite
 invites
+issues
 jobs
 local
+lost-password
 mail
 message
 messages
@@ -141,6 +145,7 @@ profiles
 quota
 replies
 reply
+reset-password
 reviews
 settings
 status
@@ -172,8 +177,9 @@ logout
 modify
 put
 register
-review
 remove
+reset
+review
 save
 search
 select

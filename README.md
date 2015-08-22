@@ -1,5 +1,5 @@
 # The-Big-Username-Blacklist
-This is a opinionated blacklist of words that you would not like to see used as usernames in your service.
+This is a opinionated blacklist of words that you might not like to see used as usernames in your service.
 
 The editable blacklist can be found in [list_raw.txt](list_raw.txt) and is categorized into six sections:
 
@@ -12,12 +12,13 @@ The editable blacklist can be found in [list_raw.txt](list_raw.txt) and is categ
 
 Please note that this list does not contain any curse words, there are [other lists](https://github.com/shutterstock/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) for that.
 
+
 ## How it works
 This repro contains standard data files, just pick the format of your choosing.
 
-- newline: `list.txt`
-- json: `list.json`
-- python: `list.py`
+- newline: [list.txt](list.txt)
+- json: [list.json](list.json)
+- python: [list.py](list.py)
 
 
 ## Contributing
