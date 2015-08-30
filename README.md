@@ -21,6 +21,11 @@ This repro contains standard data files, just pick the format of your choosing.
 - python: [list.py](list.py)
 
 
+## Packages
+
+The blacklist has both a [python](https://github.com/marteinn/the-big-username-blacklist-python) and [node](https://github.com/marteinn/the-big-username-blacklist-js) library available.
+
+
 ## Contributing
 
 Want to contribute? Awesome. 
