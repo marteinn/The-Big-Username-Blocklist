@@ -28,10 +28,10 @@ The blacklist has both a [python](https://github.com/marteinn/the-big-username-b
 
 ## Contributing
 
-Want to contribute? Awesome. 
+Want to contribute? Awesome.
 
-- First edit `list_row.txt` 
-- When you are done, run `python scripts/generate.py`. 
+- First edit `list_row.txt`
+- When you are done, run `python scripts/generate.py`.
 - ... This script will update `list.txt`, `list.json` and `list.py`
 - Done? Send a pull request.
 
