@@ -14,6 +14,7 @@ app
 apps
 auth
 backup
+banner
 billing
 billings
 blog
@@ -42,6 +43,7 @@ docs
 documentation
 download
 downvote
+drop
 edit
 enterprise
 error
@@ -76,6 +78,7 @@ host
 hosting
 hostmaster
 htpasswd
+insert
 investors
 invitations
 invite
@@ -163,8 +166,11 @@ share
 shift
 shop
 signup
+site
 sitemap
+sites
 sort
+sql
 ssl
 stats
 status
@@ -185,6 +191,7 @@ topic
 topics
 tour
 translations
+trial
 true
 undefined
 unfollow

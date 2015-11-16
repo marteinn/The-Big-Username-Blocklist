@@ -1,6 +1,6 @@
 #
 # Working copy of the username-blacklist (aka make your changes here)
-# v1.0.4
+# v1.0.5
 #
 
 
@@ -32,6 +32,7 @@ nil
 null
 rss
 sitemap
+sql
 ssl
 sudo
 true
@@ -44,6 +45,7 @@ www
 account
 api
 auth
+banner
 cache
 config
 cookies
@@ -63,6 +65,7 @@ security
 session
 sessions
 system
+trial
 username
 
 # financial
@@ -104,6 +107,7 @@ careers
 comment
 comments
 contact
+docs
 documentation
 download
 enterprise
@@ -162,6 +166,8 @@ reset-password
 reviews
 rules
 settings
+site
+sites
 stats
 status
 tag
@@ -186,11 +192,12 @@ connect
 create
 delete
 disconnect
-docs
 downvote
+drop
 edit
 exit
 follow
+insert
 invite
 join
 learn
