@@ -35,9 +35,12 @@ webmaster
 
 # code
 ajax
+dns
 error
 exception
 false
+http
+https
 imap
 is
 isatap
