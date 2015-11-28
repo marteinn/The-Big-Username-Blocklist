@@ -19,6 +19,7 @@ This repro contains standard data files, just pick the format of your choosing.
 - newline: [list.txt](list.txt)
 - json: [list.json](list.json)
 - python: [list.py](list.py)
+- javascript (es6): [list.py](list.js)
 
 
 ## Packages
