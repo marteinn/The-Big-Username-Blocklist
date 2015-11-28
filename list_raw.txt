@@ -36,7 +36,13 @@ usenet
 webmaster
 
 # code
+400
+401
+403
+404
+500
 ajax
+beta
 dns
 error
 errors
@@ -64,6 +70,7 @@ ssladmin
 ssladministrator
 sslwebmaster
 sudo
+test
 true
 undefined
 uucp
@@ -144,6 +151,7 @@ blog
 blogs
 calendar
 careers
+chat
 comment
 comments
 contact
@@ -152,6 +160,7 @@ dashboard
 docs
 documentation
 download
+downloads
 enterprise
 event
 events
@@ -240,6 +249,7 @@ widget
 widgets
 you
 website
+wiki
 
 # actions
 add
@@ -262,6 +272,7 @@ load
 login
 logout
 modify
+print
 put
 register
 remove
