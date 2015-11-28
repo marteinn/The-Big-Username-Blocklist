@@ -1,17 +1,26 @@
 #
 # Working copy of the username-blacklist (aka make your changes here)
-# v1.0.5
+# v1.1.0
 #
 
 
 # privileges
+abuse
 admin
 administrator
 administration
+autoconfig
+broadcasthost
 host
 hostmaster
+info
+localdomain
+localhost
 master
+mail
+mailer-daemon
 moderator
+nobody
 owner
 postmaster
 poweruser
@@ -19,26 +28,45 @@ root
 rootuser
 super
 superuser
+sysadmin
 user
+usenet
+webmaster
 
 # code
 ajax
+dns
 error
 exception
 false
+http
+https
+imap
+is
+isatap
+it
+isatap
 json
+mis
+noc
 none
 nil
 null
 rss
 sitemap
+smtp
 sql
 ssl
+ssladmin
+ssladministrator
+sslwebmaster
 sudo
 true
 undefined
+uucp
 var
 void
+wpad
 www
 
 # terms
@@ -52,11 +80,15 @@ cookies
 head
 header
 htpasswd
+noreply
+no-reply
 oauth
 online
 openid
 passwd
 password
+pop
+pop3
 redirect
 request
 response
@@ -91,6 +123,7 @@ orders
 pay
 payment
 partners
+sales
 store
 
 # sections
