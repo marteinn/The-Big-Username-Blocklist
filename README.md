@@ -1,5 +1,5 @@
 # The-Big-Username-Blacklist
-This is a opinionated blacklist of words that you might not like to see used as usernames in your service.
+This is a opinionated blacklist of words that you might not like to see used as usernames in your service (think both **username**.domain.com and domain.com/**username**).
 
 The editable blacklist can be found in [list_raw.txt](list_raw.txt) and is categorized into six sections:
 
