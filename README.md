@@ -19,7 +19,8 @@ This repro contains standard data files, just pick the format of your choosing.
 - newline: [list.txt](list.txt)
 - json: [list.json](list.json)
 - python: [list.py](list.py)
-- javascript (es6): [list.py](list.js)
+- javascript (es6): [list.js](list.js)
+- javascript (commonjs): [list-commonjs.js](list-commonjs.js)
 
 
 ## Packages
@@ -33,7 +34,7 @@ Want to contribute? Awesome.
 
 - First edit `list_row.txt`
 - When you are done, run `python scripts/generate.py`.
-- ... This script will update `list.txt`, `list.json` and `list.py`
+- ... This script will update the various list files.
 - Done? Send a pull request.
 
 

@@ -47,6 +47,12 @@ def convert(path=None):
     with open(file_path, "w") as f:
         f.write("export default %s;" % str(usernames))
 
+    # Write commonjs module
+    file_path = os.path.join(path, "list-commonjs.js")
+
+    with open(file_path, "w") as f:
+        f.write("module.exports = %s;" % str(usernames))
+
 
 if __name__ == "__main__":
     current_dir = os.path.dirname(os.path.realpath(__file__))
