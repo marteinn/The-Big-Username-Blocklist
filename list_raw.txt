@@ -1,6 +1,6 @@
 #
 # Working copy of the username-blacklist (aka make your changes here)
-# v1.2.0
+# v1.2.1
 #
 
 
@@ -19,7 +19,9 @@ localdomain
 localhost
 master
 mail
+mailerdaemon
 mailer-daemon
+me
 moderator
 nobody
 owner
@@ -43,6 +45,8 @@ webmaster
 500
 ajax
 beta
+css
+dev
 dns
 error
 errors
@@ -57,9 +61,20 @@ it
 isatap
 json
 mis
+mx
 noc
 none
 nil
+ns0
+ns1
+ns2
+ns3
+ns4
+ns5
+ns6
+ns7
+ns8
+ns9
 null
 rss
 sitemap
@@ -69,6 +84,7 @@ ssl
 ssladmin
 ssladministrator
 sslwebmaster
+stage
 sudo
 test
 true
