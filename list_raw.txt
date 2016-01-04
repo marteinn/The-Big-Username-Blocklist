@@ -196,6 +196,7 @@ follower
 followers
 following
 forgot
+forgotpassword
 forgot-password
 group
 groups
@@ -220,12 +221,15 @@ news
 next
 newsletter
 newsletters
+notification
+notifications
 page
 pages
 photo
 photos
 plans
 policy
+policies
 popular
 pricing
 privacy
@@ -299,6 +303,7 @@ search
 select
 share
 shift
+signin
 signup
 sort
 subscribe
