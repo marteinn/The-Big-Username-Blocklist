@@ -85,6 +85,7 @@ followers
 following
 forgot
 forgot-password
+forgotpassword
 forum
 forums
 friend
@@ -157,6 +158,8 @@ nobody
 noc
 none
 noreply
+notification
+notifications
 ns0
 ns1
 ns2
@@ -187,6 +190,7 @@ payments
 photo
 photos
 plans
+policies
 policy
 pop
 pop3
@@ -234,6 +238,7 @@ settings
 share
 shift
 shop
+signin
 signup
 site
 sitemap
