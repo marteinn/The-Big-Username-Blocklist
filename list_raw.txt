@@ -62,6 +62,7 @@ isatap
 json
 mis
 mx
+network
 noc
 none
 nil
@@ -200,6 +201,7 @@ forgotpassword
 forgot-password
 group
 groups
+guidelines
 help
 home
 images
@@ -261,10 +263,12 @@ team
 terms
 terms-of-use
 testimonials
+tools
 topic
 topics
 tour
 translations
+trending
 widget
 widgets
 you
