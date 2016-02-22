@@ -135,6 +135,7 @@ affiliate
 affiliates
 billing
 billings
+business
 campaign
 contest
 cart
@@ -175,6 +176,7 @@ comments
 contact
 copyright
 dashboard
+developers
 docs
 documentation
 download
@@ -183,6 +185,7 @@ enterprise
 event
 events
 example
+explore
 faq
 faqs
 features
@@ -273,6 +276,7 @@ trending
 widget
 widgets
 you
+video
 website
 wiki
 
@@ -290,6 +294,7 @@ drop
 edit
 exit
 follow
+go
 insert
 invite
 join
@@ -315,6 +320,7 @@ sort
 subscribe
 support
 sync
+translate
 unfollow
 update
 unsubscribe
