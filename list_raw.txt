@@ -44,6 +44,7 @@ webmaster
 404
 500
 ajax
+assets
 beta
 css
 dev
@@ -58,7 +59,6 @@ imap
 is
 isatap
 it
-isatap
 json
 mis
 mx
@@ -86,6 +86,7 @@ ssladmin
 ssladministrator
 sslwebmaster
 stage
+static
 sudo
 test
 true
@@ -277,6 +278,7 @@ wiki
 
 # actions
 add
+buy
 change
 compose
 connect

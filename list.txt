@@ -18,6 +18,7 @@ ajax
 api
 app
 apps
+assets
 auth
 autoconfig
 backup
@@ -30,6 +31,7 @@ blogs
 bookmark
 bookmarks
 broadcasthost
+buy
 cache
 calendar
 campaign
@@ -93,6 +95,7 @@ friends
 group
 groups
 guest
+guidelines
 head
 header
 help
@@ -114,7 +117,6 @@ invite
 invites
 invoice
 is
-isatap
 isatap
 issues
 it
@@ -147,6 +149,7 @@ modify
 more
 mx
 my
+network
 new
 news
 newsletter
@@ -251,6 +254,7 @@ ssladmin
 ssladministrator
 sslwebmaster
 stage
+static
 stats
 status
 store
@@ -270,10 +274,12 @@ terms
 terms-of-use
 test
 testimonials
+tools
 topic
 topics
 tour
 translations
+trending
 trial
 true
 undefined
