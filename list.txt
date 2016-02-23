@@ -31,6 +31,7 @@ blogs
 bookmark
 bookmarks
 broadcasthost
+business
 buy
 cache
 calendar
@@ -55,6 +56,7 @@ dashboard
 deals
 delete
 dev
+developers
 disconnect
 dns
 docs
@@ -73,6 +75,7 @@ events
 example
 exception
 exit
+explore
 false
 faq
 faqs
@@ -92,6 +95,7 @@ forum
 forums
 friend
 friends
+go
 group
 groups
 guest
@@ -278,6 +282,7 @@ tools
 topic
 topics
 tour
+translate
 translations
 trending
 trial
@@ -292,6 +297,7 @@ username
 users
 uucp
 var
+video
 view
 void
 vote
