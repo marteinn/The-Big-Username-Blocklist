@@ -1,6 +1,6 @@
 #
 # Working copy of the username-blacklist (aka make your changes here)
-# v1.2.2
+# v1.2.3
 #
 
 
@@ -44,6 +44,7 @@ webmaster
 404
 500
 ajax
+assets
 beta
 css
 dev
@@ -58,10 +59,10 @@ imap
 is
 isatap
 it
-isatap
 json
 mis
 mx
+network
 noc
 none
 nil
@@ -85,6 +86,7 @@ ssladmin
 ssladministrator
 sslwebmaster
 stage
+static
 sudo
 test
 true
@@ -133,6 +135,7 @@ affiliate
 affiliates
 billing
 billings
+business
 campaign
 contest
 cart
@@ -173,6 +176,7 @@ comments
 contact
 copyright
 dashboard
+developers
 docs
 documentation
 download
@@ -181,6 +185,7 @@ enterprise
 event
 events
 example
+explore
 faq
 faqs
 features
@@ -200,6 +205,7 @@ forgotpassword
 forgot-password
 group
 groups
+guidelines
 help
 home
 images
@@ -261,18 +267,22 @@ team
 terms
 terms-of-use
 testimonials
+tools
 topic
 topics
 tour
 translations
+trending
 widget
 widgets
 you
+video
 website
 wiki
 
 # actions
 add
+buy
 change
 compose
 connect
@@ -284,6 +294,7 @@ drop
 edit
 exit
 follow
+go
 insert
 invite
 join
@@ -309,6 +320,7 @@ sort
 subscribe
 support
 sync
+translate
 unfollow
 update
 unsubscribe
