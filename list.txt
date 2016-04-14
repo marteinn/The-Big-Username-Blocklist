@@ -93,12 +93,14 @@ delete
 dev
 developers
 disconnect
+discuss
 dns
 docs
 documentation
 download
 downloads
 downvote
+draft
 drop
 edit
 email
@@ -243,9 +245,11 @@ previous
 pricing
 print
 privacy
+private
 product
 profile
 profiles
+public
 put
 quota
 redirect
