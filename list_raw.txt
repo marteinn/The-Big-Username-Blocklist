@@ -27,6 +27,8 @@ nobody
 owner
 postmaster
 poweruser
+private
+public
 root
 rootuser
 super
@@ -138,6 +140,7 @@ banner
 cache
 config
 cookies
+draft
 email
 head
 header
@@ -324,6 +327,7 @@ connect
 create
 delete
 disconnect
+discuss
 downvote
 drop
 edit
