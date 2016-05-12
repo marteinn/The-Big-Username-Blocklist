@@ -82,6 +82,7 @@ assets
 beta
 cdn
 css
+debug
 dev
 dns
 error
@@ -231,6 +232,8 @@ feed
 feeds
 feedback
 feeds
+file
+files
 forum
 forums
 friend
@@ -281,6 +284,8 @@ previous
 product
 profile
 profiles
+project
+projects
 quota
 refund
 refuns
@@ -309,6 +314,7 @@ tools
 topic
 topics
 tour
+training
 translations
 trending
 widget
@@ -322,6 +328,7 @@ wiki
 add
 buy
 change
+close
 compose
 connect
 create
@@ -339,6 +346,7 @@ invite
 join
 learn
 load
+lock
 login
 logout
 modify
