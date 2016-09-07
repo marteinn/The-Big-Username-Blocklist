@@ -39,6 +39,7 @@ def convert(path=None):
         - python
         - js (ES5)
         - js (ES6)
+        - php
 
     """
     # Load raw
@@ -99,6 +100,15 @@ def convert(path=None):
     with open(file_path, "w") as f:
         f.write("// %s\n" % autogen_header)
         f.write("module.exports = %s;" % str(usernames))
+        f.close()
+
+    # write PHP file
+    file_path = os.path.join(path, "list.php")
+
+    with open(file_path, "w") as f:
+        f.write("<?php \n")
+        f.write("// %s\n" % autogen_header)
+        f.write("return %s;" % str(usernames))
         f.close()
 
 
