@@ -1,6 +1,6 @@
 #
 # Working copy of the username-blacklist (aka make your changes here)
-# v1.2.6
+# v1.3.0
 #
 
 
@@ -22,6 +22,8 @@ mail
 mailerdaemon
 mailer-daemon
 me
+member
+members
 moderator
 nobody
 owner
@@ -146,6 +148,7 @@ email
 head
 header
 htpasswd
+mobile
 noreply
 no-reply
 oauth
@@ -192,11 +195,15 @@ pay
 payment
 payments
 partners
+premium
 sales
 store
 
 # sections
 about
+about-us
+alert
+alerts
 app
 apps
 account
@@ -210,11 +217,15 @@ careers
 category
 categories
 chat
+channel
+channels
 comment
 comments
+community
 contact
 copyright
 dashboard
+developer
 developers
 docs
 documentation
@@ -225,6 +236,8 @@ event
 events
 example
 explore
+extensions
+family
 faq
 faqs
 features
@@ -255,6 +268,7 @@ invite
 invites
 issues
 jobs
+legal
 local
 lost-password
 mail
@@ -275,11 +289,15 @@ pages
 photo
 photos
 plans
+plugins
 policy
 policies
 popular
+portfolio
+press
 pricing
 privacy
+privacy-policy
 previous
 product
 profile
@@ -303,6 +321,7 @@ site
 sites
 stats
 status
+statistics
 survey
 tag
 tags
@@ -310,6 +329,7 @@ team
 terms
 terms-of-use
 testimonials
+today
 tools
 topic
 topics
@@ -328,10 +348,12 @@ wiki
 add
 buy
 change
+clear
 close
 compose
 connect
 create
+customize
 delete
 disconnect
 discuss
@@ -339,8 +361,11 @@ downvote
 drop
 edit
 exit
+export
 follow
 go
+hide
+import
 insert
 invite
 join
@@ -351,9 +376,11 @@ login
 logout
 modify
 print
+purchase
 put
 register
 remove
+report
 reset
 review
 save
@@ -370,6 +397,7 @@ sync
 translate
 unfollow
 update
+upgrade
 unsubscribe
 view
 vote
