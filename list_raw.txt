@@ -1,6 +1,6 @@
 #
 # Working copy of the username-blacklist (aka make your changes here)
-# v1.3.0
+# v1.3.1
 #
 
 
@@ -11,6 +11,8 @@ administrator
 administration
 autoconfig
 broadcasthost
+domain
+editor
 guest
 host
 hostmaster
@@ -19,6 +21,16 @@ localdomain
 localhost
 master
 mail
+mail0
+mail1
+mail2
+mail3
+mail4
+mail5
+mail6
+mail7
+mail8
+mail9
 mailerdaemon
 mailer-daemon
 me
@@ -40,6 +52,7 @@ user
 users
 usenet
 webmaster
+www-data
 
 # code
 400
@@ -80,23 +93,42 @@ webmaster
 510
 511
 ajax
+alpha
+amp
 assets
+atom
 beta
+captcha
 cdn
+cgi
+cgi-bin
+client
 css
+db
 debug
 dev
 dns
+dns0
+dns1
+dns2
+dns3
+dns4
 error
 errors
 exception
 false
+ftp
+get
 http
+httpd
 https
+icons
 imap
+img
 is
 isatap
 it
+js
 json
 mis
 mx
@@ -104,6 +136,7 @@ network
 noc
 none
 nil
+ns
 ns0
 ns1
 ns2
@@ -115,7 +148,10 @@ ns7
 ns8
 ns9
 null
+post
 rss
+script
+ssh
 sitemap
 smtp
 sql
@@ -124,23 +160,37 @@ ssladmin
 ssladministrator
 sslwebmaster
 stage
+staging
 static
+stylesheet
+stylesheets
+subdomain
 sudo
+telnet
 test
 true
 undefined
 uucp
 var
 void
+webmail
 wpad
 www
+www1
+www2
+www3
+www4
 
 # terms
-account
 api
 auth
+authentication
+authorize
+avatar
 banner
+banners
 cache
+cas
 config
 cookies
 draft
@@ -152,25 +202,32 @@ mobile
 noreply
 no-reply
 oauth
+oauth2
 online
 openid
 passwd
 password
 pop
 pop3
+postfix
 redirect
 request
 response
+sdk
 shop
 security
 session
 sessions
 system
+tablet
 trial
 username
+yourname
+yourusername
 
 # financial
 advertise
+advertising
 affiliate
 affiliates
 billing
@@ -202,12 +259,16 @@ store
 # sections
 about
 about-us
+access
 alert
 alerts
+analytics
 app
 apps
 account
+accounts
 backup
+board
 bookmark
 bookmarks
 blog
@@ -247,6 +308,9 @@ feedback
 feeds
 file
 files
+fonts
+form
+forms
 forum
 forums
 friend
@@ -260,6 +324,7 @@ forgot-password
 group
 groups
 guidelines
+guides
 help
 home
 images
@@ -271,7 +336,6 @@ jobs
 legal
 local
 lost-password
-mail
 media
 message
 messages
@@ -306,7 +370,8 @@ project
 projects
 quota
 refund
-refuns
+refunds
+registration
 replies
 reply
 request-password
@@ -316,9 +381,11 @@ returns
 reviews
 rules
 settings
+setup
 services
 site
 sites
+stat
 stats
 status
 statistics
@@ -329,6 +396,8 @@ team
 terms
 terms-of-use
 testimonials
+theme
+themes
 today
 tools
 topic
@@ -350,8 +419,10 @@ buy
 change
 clear
 close
+compare
 compose
 connect
+copy
 create
 customize
 delete
@@ -399,6 +470,7 @@ unfollow
 update
 upgrade
 unsubscribe
+verify
 view
 vote
 write
