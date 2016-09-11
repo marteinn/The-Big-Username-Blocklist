@@ -306,7 +306,7 @@ project
 projects
 quota
 refund
-refuns
+refunds
 replies
 reply
 request-password
