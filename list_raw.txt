@@ -1,6 +1,6 @@
 #
 # Working copy of the username-blacklist (aka make your changes here)
-# v1.3.1
+# v1.3.2
 #
 
 
@@ -92,6 +92,11 @@ www-data
 509
 510
 511
+aes128-ctr
+aes192-ctr
+aes256-ctr
+aes128-gcm
+aes256-gcm
 ajax
 alpha
 amp
@@ -102,23 +107,37 @@ captcha
 cdn
 cgi
 cgi-bin
+chacha20-poly1305
 client
+curve25519-sha256
 css
 db
 debug
 dev
+diffie-hellman-group-exchange-sha256
+diffie-hellman-group14-sha1
 dns
 dns0
 dns1
 dns2
 dns3
 dns4
+ecdh-sha2-nistp256
+ecdh-sha2-nistp384
+ecdh-sha2-nistp521
 error
 errors
 exception
 false
 ftp
 get
+hmac-sha
+hmac-sha1
+hmac-sha1-etm
+hmac-sha2-256
+hmac-sha2-512
+hmac-sha2-256-etm
+hmac-sha2-512-etm
 http
 httpd
 https
@@ -149,9 +168,12 @@ ns8
 ns9
 null
 post
+rsa-sha2-512
+rsa-sha2-2
 rss
 script
 ssh
+ssh-rsa
 sitemap
 smtp
 sql
@@ -169,6 +191,10 @@ sudo
 telnet
 test
 true
+umac-64
+umac-128
+umac-64-etm
+umac-128-etm
 undefined
 uucp
 var
@@ -180,6 +206,7 @@ www1
 www2
 www3
 www4
+zlib
 
 # terms
 api

@@ -47,6 +47,11 @@ administration
 administrator
 advertise
 advertising
+aes128-ctr
+aes128-gcm
+aes192-ctr
+aes256-ctr
+aes256-gcm
 affiliate
 affiliates
 ajax
@@ -91,6 +96,7 @@ category
 cdn
 cgi
 cgi-bin
+chacha20-poly1305
 change
 channel
 channels
@@ -113,6 +119,7 @@ copy
 copyright
 create
 css
+curve25519-sha256
 customize
 dashboard
 db
@@ -122,6 +129,8 @@ delete
 dev
 developer
 developers
+diffie-hellman-group-exchange-sha256
+diffie-hellman-group14-sha1
 disconnect
 discuss
 dns
@@ -138,6 +147,9 @@ downloads
 downvote
 draft
 drop
+ecdh-sha2-nistp256
+ecdh-sha2-nistp384
+ecdh-sha2-nistp521
 edit
 editor
 email
@@ -189,6 +201,13 @@ head
 header
 help
 hide
+hmac-sha
+hmac-sha1
+hmac-sha1-etm
+hmac-sha2-256
+hmac-sha2-256-etm
+hmac-sha2-512
+hmac-sha2-512-etm
 home
 host
 hosting
@@ -352,6 +371,8 @@ review
 reviews
 root
 rootuser
+rsa-sha2-2
+rsa-sha2-512
 rss
 rules
 sales
@@ -378,6 +399,7 @@ smtp
 sort
 sql
 ssh
+ssh-rsa
 ssl
 ssladmin
 ssladministrator
@@ -424,6 +446,10 @@ translations
 trending
 trial
 true
+umac-128
+umac-128-etm
+umac-64
+umac-64-etm
 undefined
 unfollow
 unsubscribe
@@ -457,3 +483,4 @@ www4
 you
 yourname
 yourusername
+zlib
