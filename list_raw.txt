@@ -382,6 +382,7 @@ newsletter
 newsletters
 notification
 notifications
+overview
 page
 pages
 photo
@@ -396,6 +397,7 @@ press
 pricing
 privacy
 privacy-policy
+preferences
 previous
 product
 profile
