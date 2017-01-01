@@ -20,6 +20,7 @@ def get_autogen_header(path=None):
         data_version = f.readlines()[2]
         data_version = data_version[2:]
         data_version = data_version.rstrip()
+        data_version = data_version.split('=')[-1]
 
         f.close()
 
@@ -62,7 +63,7 @@ def convert(path=None):
     # Write optimized newline file
     file_path = os.path.join(path, "list.txt")
 
-    optimized_data = "".join("%s\n" % e for e in usernames)
+    optimized_data = "".join("{}\n".format(e) for e in usernames)
     optimized_data = optimized_data.strip()
 
     autogen_header = get_autogen_header(path=path)
@@ -82,24 +83,24 @@ def convert(path=None):
     file_path = os.path.join(path, "list.py")
 
     with open(file_path, "w") as f:
-        f.write("# %s\n" % autogen_header)
-        f.write("data = %s" % str(usernames))
+        f.write("# {}\n".format(autogen_header))
+        f.write("data = {}".format(str(usernames)))
         f.close()
 
     # Write es6 module
     file_path = os.path.join(path, "list.js")
 
     with open(file_path, "w") as f:
-        f.write("// %s\n" % autogen_header)
-        f.write("export default %s;" % str(usernames))
+        f.write("// {}\n".format(autogen_header))
+        f.write("export default {};".format(str(usernames)))
         f.close()
 
     # Write commonjs module
     file_path = os.path.join(path, "list-commonjs.js")
 
     with open(file_path, "w") as f:
-        f.write("// %s\n" % autogen_header)
-        f.write("module.exports = %s;" % str(usernames))
+        f.write("// {}\n".format(autogen_header))
+        f.write("module.exports = {};".format(str(usernames)))
         f.close()
 
     # write PHP file
@@ -107,8 +108,8 @@ def convert(path=None):
 
     with open(file_path, "w") as f:
         f.write("<?php \n")
-        f.write("// %s\n" % autogen_header)
-        f.write("return %s;" % str(usernames))
+        f.write("// {}\n".format(autogen_header))
+        f.write("return {};".format(str(usernames)))
         f.close()
 
 
