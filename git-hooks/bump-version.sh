@@ -22,7 +22,7 @@ ROOTDIR=$(git rev-parse --show-toplevel)
 
 # Bump package.version
 sed -i.bak 's/^\( *\)"version": .*/\1"version": "'$VERSION'",/' $ROOTDIR/package.json
-rm frontend/package.json.bak
+rm $ROOTDIR/package.json.bak
 
 # Rebuild datasets
 python scripts/generate.py
