@@ -20,9 +20,8 @@ VERSION=${VERSION#"v"}
 
 ROOTDIR=$(git rev-parse --show-toplevel)
 
-# Bump package.version
-sed -i.bak 's/^\( *\)"version": .*/\1"version": "'$VERSION'",/' $ROOTDIR/package.json
-rm $ROOTDIR/package.json.bak
+sed -i.bak 's/^#.VERSION=.*/# VERSION=v'$VERSION'/' $ROOTDIR/list_raw.txt
+rm $ROOTDIR/list_raw.txt.bak
 
 # Rebuild datasets
 python scripts/generate.py

@@ -20,6 +20,7 @@ def get_autogen_header(path=None):
         data_version = f.readlines()[2]
         data_version = data_version[2:]
         data_version = data_version.rstrip()
+        data_version = data_version.split('=')[-1]
 
         f.close()
 
