@@ -12,8 +12,11 @@ The editable blacklist can be found in [list_raw.txt](list_raw.txt) and is categ
 
 Please note that this list does not contain any curse words, there are [other lists](https://github.com/shutterstock/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) for that.
 
+You can try the blacklist using the tool [Username checker](http://marteinn.github.io/The-Big-Username-Blacklist-JS/).
+
 
 ## How it works
+
 This repro contains standard data files, just pick the format of your choosing.
 
 - newline: [list.txt](list.txt)
@@ -37,6 +40,17 @@ Want to contribute? Awesome.
 - When you are done, run `python scripts/generate.py`.
 - ... This script will update the various list files.
 - Done? Send a pull request.
+
+
+### Release start
+
+These hooks will automatically bump the application version when using `git flow release ...`
+
+```bash
+chmod +x $PWD/git-hooks/bump-version.sh
+ln -nfs $PWD/git-hooks/bump-version.sh .git/hooks/post-flow-release-start
+ln -nfs $PWD/git-hooks/bump-version.sh .git/hooks/post-flow-hotfix-start
+```
 
 
 ## License
