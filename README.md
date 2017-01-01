@@ -10,9 +10,9 @@ The editable blacklist can be found in [list_raw.txt](list_raw.txt) and is categ
 - **Sections**: Common website pages and sections. Example: _faq_, _help_
 - **Actions**: User actions. Example: _delete_, _create_
 
-Please note that this list does not contain any curse words, there are [other lists](https://github.com/shutterstock/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) for that.
-
 You can try the blacklist using the tool [Username checker](http://marteinn.github.io/The-Big-Username-Blacklist-JS/).
+
+Please note that this list does not contain any curse words, there are [other lists](https://github.com/shutterstock/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) for that.
 
 
 ## How it works
