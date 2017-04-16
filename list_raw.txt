@@ -333,6 +333,8 @@ comments
 community
 contact
 copyright
+customer
+customers
 dashboard
 developer
 developers
