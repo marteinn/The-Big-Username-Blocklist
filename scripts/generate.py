@@ -110,6 +110,17 @@ def convert(path=None):
         f.write(f"return {usernames};")
         f.close()
 
+    # Write yaml file
+    file_path = os.path.join(path, "list.yaml")
+
+    with open(file_path, "w") as f:
+        f.write(f"# {autogen_header}\n")
+        f.write("---\n")
+        f.write("usernames:\n")
+        for username in usernames:
+            f.write("f  - \"{username}\"\n")
+        f.close()
+
 
 if __name__ == "__main__":
     current_dir = os.path.dirname(os.path.realpath(__file__))
