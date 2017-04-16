@@ -263,6 +263,7 @@ request
 response
 sdk
 shop
+secure
 security
 session
 sessions
