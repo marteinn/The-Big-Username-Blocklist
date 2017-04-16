@@ -1,6 +1,6 @@
 #
 # Working copy of the username-blacklist (aka make your changes here)
-# v1.3.2
+# VERSION=v1.4.0
 #
 
 
@@ -154,6 +154,7 @@ it
 js
 json
 limit
+live
 map
 mis
 mx
@@ -191,6 +192,8 @@ sslwebmaster
 stage
 staging
 static
+style
+styles
 stylesheet
 stylesheets
 subdomain
@@ -216,6 +219,8 @@ www4
 zlib
 
 # terms
+ad
+ads
 api
 auth
 authentication
@@ -225,13 +230,16 @@ banner
 banners
 cache
 cas
+chart
 config
 cookies
+cms
 draft
 email
 head
 header
 htpasswd
+metrics
 mobile
 noreply
 no-reply
@@ -241,6 +249,7 @@ online
 openid
 passwd
 password
+pixel
 pop
 pop3
 postfix
