@@ -1,6 +1,6 @@
 #
 # Working copy of the username-blacklist (aka make your changes here)
-# VERSION=v1.4.0
+# VERSION=v1.5.0
 #
 
 
@@ -110,6 +110,7 @@ cgi
 cgi-bin
 chacha20-poly1305
 client
+com
 count
 curve25519-sha256
 css
@@ -135,6 +136,7 @@ false
 filter
 ftp
 get
+git
 hmac-sha
 hmac-sha1
 hmac-sha1-etm
@@ -154,9 +156,11 @@ it
 js
 json
 limit
+live
 map
 mis
 mx
+net
 network
 noc
 none
@@ -174,6 +178,8 @@ ns8
 ns9
 null
 post
+prod
+production
 rsa-sha2-512
 rsa-sha2-2
 rss
@@ -191,6 +197,8 @@ sslwebmaster
 stage
 staging
 static
+style
+styles
 stylesheet
 stylesheets
 subdomain
@@ -216,6 +224,8 @@ www4
 zlib
 
 # terms
+ad
+ads
 api
 auth
 authentication
@@ -225,13 +235,16 @@ banner
 banners
 cache
 cas
+chart
 config
 cookies
+cms
 draft
 email
 head
 header
 htpasswd
+metrics
 mobile
 noreply
 no-reply
@@ -241,6 +254,7 @@ online
 openid
 passwd
 password
+pixel
 pop
 pop3
 postfix
@@ -249,6 +263,7 @@ request
 response
 sdk
 shop
+secure
 security
 session
 sessions
@@ -319,6 +334,8 @@ comments
 community
 contact
 copyright
+customer
+customers
 dashboard
 developer
 developers
