@@ -110,6 +110,7 @@ cgi
 cgi-bin
 chacha20-poly1305
 client
+com
 count
 curve25519-sha256
 css
@@ -135,6 +136,7 @@ false
 filter
 ftp
 get
+git
 hmac-sha
 hmac-sha1
 hmac-sha1-etm
@@ -158,6 +160,7 @@ live
 map
 mis
 mx
+net
 network
 noc
 none
@@ -175,6 +178,8 @@ ns8
 ns9
 null
 post
+prod
+production
 rsa-sha2-512
 rsa-sha2-2
 rss
