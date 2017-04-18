@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
 import os
@@ -118,7 +118,7 @@ def convert(path=None):
         f.write("---\n")
         f.write("usernames:\n")
         for username in usernames:
-            f.write("f  - \"{username}\"\n")
+            f.write(f"  - \"{username}\"\n")
         f.close()
 
 
