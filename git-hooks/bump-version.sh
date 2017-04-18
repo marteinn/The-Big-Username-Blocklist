@@ -24,7 +24,7 @@ sed -i.bak 's/^#.VERSION=.*/# VERSION=v'$VERSION'/' $ROOTDIR/list_raw.txt
 rm $ROOTDIR/list_raw.txt.bak
 
 # Rebuild datasets
-python scripts/generate.py
+python3 scripts/generate.py
 
 # Commit changes
 git commit -a -m "Version bump $VERSION"
