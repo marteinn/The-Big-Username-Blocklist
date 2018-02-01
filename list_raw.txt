@@ -379,7 +379,6 @@ help
 home
 images
 invitations
-invite
 invites
 issues
 jobs
