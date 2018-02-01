@@ -354,7 +354,6 @@ faq
 faqs
 features
 feed
-feeds
 feedback
 feeds
 file
