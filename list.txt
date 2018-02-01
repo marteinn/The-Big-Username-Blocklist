@@ -182,7 +182,6 @@ features
 feed
 feedback
 feeds
-feeds
 file
 files
 filter
@@ -237,7 +236,6 @@ info
 insert
 investors
 invitations
-invite
 invite
 invites
 invoice
