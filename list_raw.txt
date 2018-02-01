@@ -354,7 +354,6 @@ faq
 faqs
 features
 feed
-feeds
 feedback
 feeds
 file
@@ -380,7 +379,6 @@ help
 home
 images
 invitations
-invite
 invites
 issues
 jobs
