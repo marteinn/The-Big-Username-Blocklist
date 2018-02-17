@@ -17,6 +17,7 @@ guest
 host
 hostmaster
 info
+keybase.txt
 localdomain
 localhost
 master
