@@ -59,6 +59,7 @@ www-data
 # code
 .htaccess
 .htpasswd
+.well-known
 400
 401
 403
