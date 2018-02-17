@@ -1,3 +1,6 @@
+.htaccess
+.htpasswd
+.well-known
 400
 401
 403
@@ -72,6 +75,7 @@ auth
 authentication
 authorize
 autoconfig
+autodiscover
 avatar
 backup
 banner
@@ -125,6 +129,7 @@ copy
 copyright
 count
 create
+crossdomain.xml
 css
 curve25519-sha256
 customer
@@ -178,6 +183,7 @@ false
 family
 faq
 faqs
+favicon.ico
 features
 feed
 feedback
@@ -227,6 +233,7 @@ htpasswd
 http
 httpd
 https
+humans.txt
 icons
 images
 imap
@@ -247,8 +254,10 @@ jobs
 join
 js
 json
+keybase.txt
 learn
 legal
+license
 licensing
 limit
 live
@@ -390,6 +399,7 @@ return
 returns
 review
 reviews
+robots.txt
 root
 rootuser
 rsa-sha2-2
