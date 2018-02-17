@@ -114,6 +114,7 @@ client
 com
 count
 curve25519-sha256
+crossdomain.xml
 css
 db
 debug
@@ -181,6 +182,7 @@ null
 post
 prod
 production
+robots.txt
 rsa-sha2-512
 rsa-sha2-2
 rss
