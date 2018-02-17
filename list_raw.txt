@@ -1,6 +1,6 @@
 #
 # Working copy of the username-blacklist (aka make your changes here)
-# VERSION=v1.5.1
+# VERSION=v1.5.2
 #
 
 
@@ -10,6 +10,7 @@ admin
 administrator
 administration
 autoconfig
+autodiscover
 broadcasthost
 domain
 editor
@@ -17,6 +18,7 @@ guest
 host
 hostmaster
 info
+keybase.txt
 localdomain
 localhost
 master
@@ -55,6 +57,9 @@ webmaster
 www-data
 
 # code
+.htaccess
+.htpasswd
+.well-known
 400
 401
 403
@@ -113,6 +118,7 @@ client
 com
 count
 curve25519-sha256
+crossdomain.xml
 css
 db
 debug
@@ -133,6 +139,7 @@ error
 errors
 exception
 false
+favicon.ico
 filter
 ftp
 get
@@ -147,6 +154,7 @@ hmac-sha2-512-etm
 http
 httpd
 https
+humans.txt
 icons
 imap
 img
@@ -180,6 +188,7 @@ null
 post
 prod
 production
+robots.txt
 rsa-sha2-512
 rsa-sha2-2
 rss
@@ -290,6 +299,7 @@ deals
 hosting
 investors
 invoice
+license
 licensing
 marketing
 marketplace
