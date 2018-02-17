@@ -57,6 +57,8 @@ webmaster
 www-data
 
 # code
+.htaccess
+.htpasswd
 400
 401
 403
@@ -136,6 +138,7 @@ error
 errors
 exception
 false
+favicon.ico
 filter
 ftp
 get
@@ -150,6 +153,7 @@ hmac-sha2-512-etm
 http
 httpd
 https
+humans.txt
 icons
 imap
 img
