@@ -299,6 +299,7 @@ deals
 hosting
 investors
 invoice
+license
 licensing
 marketing
 marketplace
