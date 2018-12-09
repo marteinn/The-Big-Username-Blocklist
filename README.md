@@ -37,6 +37,7 @@ The blacklist has both a [python](https://github.com/marteinn/the-big-username-b
 
 Want to contribute? Awesome.
 
+- Checkout the origin/develop branch
 - First edit `list_raw.txt`
 - When you are done, run `python scripts/generate.py`.
 - ... This script will update the various list files.
@@ -52,6 +53,10 @@ chmod +x $PWD/git-hooks/bump-version.sh
 ln -nfs $PWD/git-hooks/bump-version.sh .git/hooks/post-flow-release-start
 ln -nfs $PWD/git-hooks/bump-version.sh .git/hooks/post-flow-hotfix-start
 ```
+
+## Git workflow and release management
+
+This project uses [gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) and semantic versioning.
 
 
 ## License
