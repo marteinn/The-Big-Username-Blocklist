@@ -487,6 +487,7 @@ copy
 create
 customize
 delete
+destroy
 disconnect
 discuss
 downvote
@@ -498,10 +499,12 @@ follow
 go
 hide
 import
+index
 insert
 invite
 join
 learn
+like
 load
 lock
 login
@@ -531,6 +534,7 @@ translate
 unfollow
 update
 upgrade
+unlike
 unsubscribe
 verify
 view

@@ -141,6 +141,7 @@ deals
 debug
 delete
 desc
+destroy
 dev
 developer
 developers
@@ -239,6 +240,7 @@ images
 imap
 img
 import
+index
 info
 insert
 investors
@@ -259,6 +261,7 @@ learn
 legal
 license
 licensing
+like
 limit
 live
 load
@@ -487,6 +490,7 @@ umac-64
 umac-64-etm
 undefined
 unfollow
+unlike
 unsubscribe
 update
 upgrade
