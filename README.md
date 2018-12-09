@@ -37,6 +37,7 @@ The blacklist has both a [python](https://github.com/marteinn/the-big-username-b
 
 Want to contribute? Awesome.
 
+- Checkout the origin/develop branch
 - First edit `list_raw.txt`
 - When you are done, run `python scripts/generate.py`.
 - ... This script will update the various list files.
