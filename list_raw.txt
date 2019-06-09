@@ -163,6 +163,7 @@ isatap
 it
 js
 json
+graphql
 limit
 live
 map
