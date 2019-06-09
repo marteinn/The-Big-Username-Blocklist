@@ -30,7 +30,12 @@ This repro contains standard data files, just pick the format of your choosing.
 
 ## Packages
 
-The blacklist has both a [python](https://github.com/marteinn/the-big-username-blacklist-python) and [node](https://github.com/marteinn/the-big-username-blacklist-js) library available.
+Blacklist has been ported to different languages.
+
+- [python](https://github.com/marteinn/the-big-username-blacklist-python)
+- [node](https://github.com/marteinn/the-big-username-blacklist-js)
+- [ruby](https://github.com/unlearned/the_big_username_blacklist)
+- [elixir](https://github.com/dcrtantuco/the-big-username-blacklist)
 
 
 ## Contributing
