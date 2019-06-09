@@ -12,6 +12,8 @@ administration
 autoconfig
 autodiscover
 broadcasthost
+cp
+cpanel
 domain
 editor
 guest
@@ -169,6 +171,7 @@ live
 map
 mis
 mx
+mx1
 net
 network
 noc
@@ -186,6 +189,7 @@ ns7
 ns8
 ns9
 null
+owa
 post
 prod
 production
@@ -224,6 +228,7 @@ undefined
 uucp
 var
 void
+vpn
 webmail
 wpad
 www
@@ -329,6 +334,7 @@ apps
 account
 accounts
 backup
+bbs
 board
 bookmark
 bookmarks
@@ -341,6 +347,7 @@ categories
 chat
 channel
 channels
+cloud
 comment
 comments
 community
@@ -419,6 +426,7 @@ plugins
 policy
 policies
 popular
+portal
 portfolio
 press
 pricing
