@@ -293,8 +293,10 @@ yourusername
 # financial
 advertise
 advertising
+ads.txt
 affiliate
 affiliates
+app-ads.txt
 billing
 billings
 business
