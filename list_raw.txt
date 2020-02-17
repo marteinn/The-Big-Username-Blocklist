@@ -137,7 +137,7 @@ dns3
 dns4
 ecdh-sha2-nistp256
 ecdh-sha2-nistp384
-ecdh-sha2-nistp512
+ecdh-sha2-nistp521
 error
 errors
 exception
