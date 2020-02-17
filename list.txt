@@ -38,6 +38,7 @@
 509
 510
 511
+_domainkey
 about
 about-us
 abuse
@@ -50,6 +51,7 @@ admin
 administration
 administrator
 ads
+ads.txt
 advertise
 advertising
 aes128-ctr
@@ -67,6 +69,7 @@ amp
 analytics
 api
 app
+app-ads.txt
 apps
 asc
 assets
@@ -80,6 +83,7 @@ avatar
 backup
 banner
 banners
+bbs
 beta
 billing
 billings
@@ -113,6 +117,7 @@ checkout
 clear
 client
 close
+cloud
 cms
 com
 comment
@@ -128,6 +133,8 @@ cookies
 copy
 copyright
 count
+cp
+cpanel
 create
 crossdomain.xml
 css
@@ -210,6 +217,7 @@ ftp
 get
 git
 go
+graphql
 group
 groups
 guest
@@ -272,6 +280,7 @@ lock
 login
 logout
 lost-password
+m
 mail
 mail0
 mail1
@@ -302,6 +311,7 @@ moderator
 modify
 more
 mx
+mx1
 my
 net
 network
@@ -339,6 +349,7 @@ openid
 order
 orders
 overview
+owa
 owner
 page
 pages
@@ -358,6 +369,7 @@ policy
 pop
 pop3
 popular
+portal
 portfolio
 post
 postfix
@@ -505,6 +517,7 @@ video
 view
 void
 vote
+vpn
 webmail
 webmaster
 website

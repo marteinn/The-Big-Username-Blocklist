@@ -5,6 +5,7 @@
 
 
 # privileges
+_domainkey
 abuse
 admin
 administrator
