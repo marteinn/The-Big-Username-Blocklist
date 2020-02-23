@@ -1,10 +1,11 @@
 #
 # Working copy of the username-blacklist (aka make your changes here)
-# VERSION=v1.5.3
+# VERSION=v1.6.0
 #
 
 
 # privileges
+_domainkey
 abuse
 admin
 administrator
@@ -12,6 +13,8 @@ administration
 autoconfig
 autodiscover
 broadcasthost
+cp
+cpanel
 domain
 editor
 guest
@@ -163,11 +166,13 @@ isatap
 it
 js
 json
+graphql
 limit
 live
 map
 mis
 mx
+mx1
 net
 network
 noc
@@ -185,6 +190,7 @@ ns7
 ns8
 ns9
 null
+owa
 post
 prod
 production
@@ -223,6 +229,7 @@ undefined
 uucp
 var
 void
+vpn
 webmail
 wpad
 www
@@ -253,6 +260,7 @@ email
 head
 header
 htpasswd
+m
 metrics
 mobile
 noreply
@@ -286,8 +294,10 @@ yourusername
 # financial
 advertise
 advertising
+ads.txt
 affiliate
 affiliates
+app-ads.txt
 billing
 billings
 business
@@ -327,6 +337,7 @@ apps
 account
 accounts
 backup
+bbs
 board
 bookmark
 bookmarks
@@ -339,6 +350,7 @@ categories
 chat
 channel
 channels
+cloud
 comment
 comments
 community
@@ -417,6 +429,7 @@ plugins
 policy
 policies
 popular
+portal
 portfolio
 press
 pricing
