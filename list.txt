@@ -1,3 +1,4 @@
+.git
 .htaccess
 .htpasswd
 .well-known
@@ -359,6 +360,7 @@ password
 pay
 payment
 payments
+paypal
 photo
 photos
 pixel
@@ -391,6 +393,7 @@ profile
 profiles
 project
 projects
+promo
 public
 purchase
 put
@@ -472,6 +475,7 @@ superuser
 support
 survey
 sync
+sysadmin
 sysadmin
 system
 tablet
