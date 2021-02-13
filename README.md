@@ -1,4 +1,4 @@
-# The-Big-Username-Blacklist
+# The-Big-Username-Blocklist
 This is a opinionated blacklist of words that you might not like to see used as usernames in your service (think **username**.domain.com, domain.com/**username** or **username**@domain.com).
 
 The editable blacklist can be found in [list_raw.txt](list_raw.txt) and is categorized into six sections:
@@ -30,7 +30,7 @@ This repro contains standard data files, just pick the format of your choosing.
 
 ## Packages
 
-Blacklist has been ported to different languages.
+Blocklist has been ported to different languages.
 
 - [python](https://github.com/marteinn/the-big-username-blacklist-python)
 - [node](https://github.com/marteinn/the-big-username-blacklist-js)
@@ -66,4 +66,4 @@ This project uses [gitflow](https://www.atlassian.com/git/tutorials/comparing-wo
 
 ## License
 
-The-Big-Username-Blacklist is released under the [MIT License](http://www.opensource.org/licenses/MIT).
+The-Big-Username-Blocklist is released under the [MIT License](http://www.opensource.org/licenses/MIT).
