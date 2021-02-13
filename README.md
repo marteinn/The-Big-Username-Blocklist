@@ -1,7 +1,7 @@
 # The-Big-Username-Blocklist
-This is a opinionated blacklist of words that you might not like to see used as usernames in your service (think **username**.domain.com, domain.com/**username** or **username**@domain.com).
+This is a opinionated blocklist of words that you might not like to see used as usernames in your service (think **username**.domain.com, domain.com/**username** or **username**@domain.com).
 
-The editable blacklist can be found in [list_raw.txt](list_raw.txt) and is categorized into six sections:
+The editable blocklist can be found in [list_raw.txt](list_raw.txt) and is categorized into six sections:
 
 - **Privileges** User privilege terms to prevent faked authority. Example: _root_, _super_
 - **Code**: Programming terms that you might want to avoid in a url. Example: _void_, _null_
@@ -10,7 +10,7 @@ The editable blacklist can be found in [list_raw.txt](list_raw.txt) and is categ
 - **Sections**: Common website pages and sections. Example: _faq_, _help_
 - **Actions**: User actions. Example: _delete_, _create_
 
-You can try the blacklist using the tool [Username checker](http://marteinn.github.io/The-Big-Username-Blacklist-JS/).
+You can try the blocklist using the tool [Username checker](http://marteinn.github.io/The-Big-Username-Blacklist-JS/).
 
 Please note that this list does not contain any curse words, there are [other lists](https://github.com/shutterstock/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) for that.
 
@@ -32,10 +32,15 @@ This repro contains standard data files, just pick the format of your choosing.
 
 Blocklist has been ported to different languages.
 
+### Official
 - [python](https://github.com/marteinn/the-big-username-blacklist-python)
 - [node](https://github.com/marteinn/the-big-username-blacklist-js)
-- [ruby](https://github.com/unlearned/the_big_username_blacklist)
-- [elixir](https://github.com/dcrtantuco/the-big-username-blacklist)
+
+### Third party libraries containing data from blocklist
+- [the_big_username_blacklist (ruby)](https://github.com/unlearned/the_big_username_blacklist)
+- [the-big-username-blacklist (elixir)](https://github.com/dcrtantuco/the-big-username-blacklist)
+- [username-blocklist (rust)](https://lib.rs/crates/username-blocklist)
+- [django-username-tools (python/django)](https://github.com/poudel/django-username-tools)
 
 
 ## Contributing
