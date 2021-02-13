@@ -1,6 +1,6 @@
 #
 # Working copy of the username-blacklist (aka make your changes here)
-# VERSION=v1.6.0
+# VERSION=v2.0.0
 #
 
 
