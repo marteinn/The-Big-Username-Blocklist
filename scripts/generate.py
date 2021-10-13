@@ -4,7 +4,7 @@
 import os
 import json
 import datetime
-
+import csv
 
 def convert(path=None):
     """
@@ -31,6 +31,7 @@ def convert(path=None):
 
     write_optimized_txt(path, usernames)
     write_json(path, usernames)
+    write_csv(path, usernames)
     write_python(path, usernames, autogen_header)
     write_es6(path, usernames, autogen_header)
     write_commonjs(path, usernames, autogen_header)
@@ -76,10 +77,19 @@ def write_json(path, usernames):
         f.close()
 
 
+def write_csv(path, usernames):
+    file_path = os.path.join(path, "list.csv")
+
+    with open(file_path, "w") as f:
+        writer = csv.writer(f, delimiter=',')
+        writer.writerow(usernames)
+        f.close()
+
+
 def write_python(path, usernames, autogen_header):
     file_path = os.path.join(path, "list.py")
 
-    with open(file_path, "w") as f:
+    with open(file_path, "w", newline='') as f:
         f.write(f"# {autogen_header}\n")
         f.write(f"data = {usernames}")
         f.close()
